@@ -1,4 +1,4 @@
-Estudando versionamento GIT
+Estudando versionamento GIT 2.0
 
 Alteração no readme para uma melhor descrição
-Alteração no master
+Alguma nova linha legal no master
